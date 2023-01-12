@@ -1,7 +1,7 @@
 
 # Miguel Llobell Gisbert
 
-<img id="MiguelFoto" srcset="/imagen3.jpg 1600w, /imagen2.jpg 1000w, /imagen1.jpg 800w, i alt=""Foto de Miguel Llobell"" >
+<img id="MiguelFoto" srcset="images/imagen3.jpg 1600w, images/imagen2.jpg 1000w, images/imagen1.jpg 800w"  alt="Foto de Miguel Llobell">
 
 ## Quién soy
 
