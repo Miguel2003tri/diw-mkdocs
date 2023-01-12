@@ -1,7 +1,7 @@
 
 # Miguel Llobell Gisbert
-![Foto de mi cara del aules](/imagen.jpg "Foto de Miguel Llobell" ) 
-[<img src="/imagen.jpg" style="width:25%; height=25%">](https://webpage.com/)
+
+<img id="MiguelFoto" srcset="/imagen3.jpg 1600w, /imagen2.jpg 1000w, /imagen1.jpg 800w, i alt=""Foto de Miguel Llobell"" >
 
 ## Quién soy
 
